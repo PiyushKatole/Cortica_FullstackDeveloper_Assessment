@@ -27,9 +27,6 @@ Frontend: React.js, Material UI, Redux
 Backend: Node.js, Express.js
 Database: MongoDB
 
-Installation
-git clone https://github.com/Yogndrr/MERN-School-Management-System.git
-Open 2 terminals in separate windows/tabs.
 
 Terminal 1: Setting Up Backend
 
